@@ -33,3 +33,5 @@ https://github.com/AdamBien/docklands/blob/master/postgres-debezium/Dockerfile
 https://github.com/AdamBien/docklands/tree/master/kafka/kafka-postgres-connect
 
 gu install native-image
+
+https://github.com/adambien/blogpad
