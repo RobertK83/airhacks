@@ -16,3 +16,6 @@ Airhacks at Eventbrite: https://airhacks.eventbrite.com
 
 # links & resources
 
+
+
+https://medium.com/helidon/helidon-2-2-0-released-cdd3b7c43dd1
