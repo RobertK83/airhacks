@@ -29,3 +29,5 @@ https://github.com/adambien/bce.design
 https://debezium.io/
 
 https://github.com/AdamBien/docklands/blob/master/postgres-debezium/Dockerfile
+
+https://github.com/AdamBien/docklands/tree/master/kafka/kafka-postgres-connect
