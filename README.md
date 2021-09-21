@@ -25,3 +25,5 @@ https://github.com/adamBien/mockend
 https://html.spec.whatwg.org/multipage/server-sent-events.html
 
 https://github.com/adambien/bce.design
+
+https://debezium.io/
