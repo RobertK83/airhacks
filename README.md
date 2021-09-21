@@ -41,3 +41,5 @@ https://docs.aws.amazon.com/lambda/latest/dg/lambda-edge.html
 https://www.fastly.com/blog/edge-programming-rust-web-assembly
 
 https://prestodb.io/
+
+https://ksqldb.io/
