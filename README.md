@@ -71,3 +71,5 @@ https://adambien.blog/roller/abien/entry/why_are_you_not_using
 https://wiki.openjdk.java.net/display/loom/Main
 
 https://en.wikipedia.org/wiki/Entity-control-boundary
+
+https://en.wikipedia.org/wiki/GRASP_(object-oriented_design)#Protected_variations
