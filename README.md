@@ -55,3 +55,5 @@ https://quarkus.io/guides/security-jwt
 https://smallrye.io/
 
 https://www.confluent.io/confluent-cloud/
+
+https://aws.amazon.com/msk/
