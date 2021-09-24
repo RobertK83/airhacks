@@ -53,3 +53,5 @@ https://quarkus.io/guides/security-openid-connect
 https://quarkus.io/guides/security-jwt
 
 https://smallrye.io/
+
+https://www.confluent.io/confluent-cloud/
