@@ -57,3 +57,5 @@ https://smallrye.io/
 https://www.confluent.io/confluent-cloud/
 
 https://aws.amazon.com/msk/
+
+https://aws.amazon.com/kinesis/
