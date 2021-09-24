@@ -65,3 +65,5 @@ https://docs.aws.amazon.com/cur/latest/userguide/what-is-cur.html
 https://micronaut.io
 
 https://helidon.io/#/
+
+https://adambien.blog/roller/abien/entry/why_are_you_not_using
