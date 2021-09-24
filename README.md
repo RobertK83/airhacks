@@ -51,3 +51,5 @@ https://adambien.blog/roller/abien/entry/jdd_2020_building_kickass_java
 https://quarkus.io/guides/security-openid-connect
 
 https://quarkus.io/guides/security-jwt
+
+https://smallrye.io/
