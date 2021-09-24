@@ -47,3 +47,5 @@ https://ksqldb.io/
 https://github.com/adambien/bce.design
 
 https://adambien.blog/roller/abien/entry/jdd_2020_building_kickass_java
+
+https://quarkus.io/guides/security-openid-connect
