@@ -115,3 +115,5 @@ https://docs.aws.amazon.com/lambda/latest/dg/lambda-services.html
 https://aws.amazon.com/blogs/compute/introducing-aws-lambda-destinations/
 
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBMapper.Annotations.html
+
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Programming.LowLevelAPI.html
