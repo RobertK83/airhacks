@@ -79,3 +79,5 @@ https://martinfowler.com/bliki/TolerantReader.html
 https://docs.aws.amazon.com/kms/latest/developerguide/service-integration.html
 
 https://aws.amazon.com/apprunner
+
+https://aws.amazon.com/free/compute/lightsail
