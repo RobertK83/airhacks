@@ -125,3 +125,5 @@ https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-websocke
 https://www.packer.io/
 
 https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager.html
+
+https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-task-definition.html
