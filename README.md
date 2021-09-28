@@ -91,3 +91,5 @@ https://aws.amazon.com/about-aws/global-infrastructure/
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication.html
 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/Versioning.html
+
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/MultiFactorAuthenticationDelete.html
