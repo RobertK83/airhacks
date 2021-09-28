@@ -75,3 +75,5 @@ https://en.wikipedia.org/wiki/Entity-control-boundary
 https://en.wikipedia.org/wiki/GRASP_(object-oriented_design)#Protected_variations
 
 https://martinfowler.com/bliki/TolerantReader.html
+
+https://docs.aws.amazon.com/kms/latest/developerguide/service-integration.html
