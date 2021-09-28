@@ -109,3 +109,5 @@ https://aws.amazon.com/s3/glacier/
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html
 
 https://aws.amazon.com/de/storagegateway/vtl/
+
+https://docs.aws.amazon.com/lambda/latest/dg/lambda-services.html
