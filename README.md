@@ -101,3 +101,5 @@ https://aws.amazon.com/storagegateway/?whats-new-cards.sort-by=item.additionalFi
 https://aws.amazon.com/efs/
 
 https://aws.amazon.com/fsx/
+
+https://aws.amazon.com/snowball/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc
