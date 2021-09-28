@@ -95,3 +95,5 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/Versioning.html
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/MultiFactorAuthenticationDelete.html
 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock-overview.html
+
+https://aws.amazon.com/storagegateway/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc
