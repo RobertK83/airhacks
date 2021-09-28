@@ -77,3 +77,5 @@ https://en.wikipedia.org/wiki/GRASP_(object-oriented_design)#Protected_variation
 https://martinfowler.com/bliki/TolerantReader.html
 
 https://docs.aws.amazon.com/kms/latest/developerguide/service-integration.html
+
+https://aws.amazon.com/apprunner
