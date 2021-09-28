@@ -97,3 +97,5 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/MultiFactorAuthenticationD
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock-overview.html
 
 https://aws.amazon.com/storagegateway/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc
+
+https://aws.amazon.com/efs/
