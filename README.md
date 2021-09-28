@@ -119,3 +119,5 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBMapper.
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Programming.LowLevelAPI.html
 
 https://github.com/awslabs/aws-serverless-java-container
+
+https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-websocket-api.html
