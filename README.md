@@ -117,3 +117,5 @@ https://aws.amazon.com/blogs/compute/introducing-aws-lambda-destinations/
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBMapper.Annotations.html
 
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Programming.LowLevelAPI.html
+
+https://github.com/awslabs/aws-serverless-java-container
