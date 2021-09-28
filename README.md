@@ -123,3 +123,5 @@ https://github.com/awslabs/aws-serverless-java-container
 https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-websocket-api.html
 
 https://www.packer.io/
+
+https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager.html
