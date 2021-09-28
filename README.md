@@ -83,3 +83,5 @@ https://aws.amazon.com/apprunner
 https://aws.amazon.com/free/compute/lightsail
 
 https://airhacks.fm/#episode_80
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/snapshot-lifecycle.html
